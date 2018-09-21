@@ -1,0 +1,4 @@
+export const FETCH_GREETINGS = 'FETCH_GREETINGS'
+export const FETCH_RSVPS = 'FETCH_RSVPS'
+export const FETCH_SONGS = 'FETCH_SONGS'
+export const FETCH_PHOTOS = 'FETCH_PHOTOS'

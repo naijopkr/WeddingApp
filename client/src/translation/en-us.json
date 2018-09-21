@@ -1,0 +1,53 @@
+{
+  "submit": "Submit",
+  "header": {
+    "home": "Home",
+    "rsvp": "RSVP",
+    "directions": "Directions",
+    "songs": "Suggest Songs",
+    "guestbook": "Guestbook",
+    "photos": "Photos"
+  },
+  "home": {
+    "title": "John & Ann's Wedding",
+    "date": "Saturday, May 15th 2019 at 5pm"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "name": "Name",
+    "email": "E-mail",
+    "rsvpSelectTitle": "RSVP",
+    "rsvpPlaceholder": "Select",
+    "yes": "Yes",
+    "no": "No",
+    "addGuest": "Add guest",
+    "guestName": "Guest name",
+    "submitSuccess": "RSVP successfully sent."
+  },
+  "directions": {
+    "title": "Directions",
+    "directions": "227 Random Address Ave. Brooklyn, NY"
+  },
+  "songs": {
+    "title": "Suggest wedding party songs",
+    "name": "Enter your name",
+    "artist": "Enter artist or band name",
+    "song": "Enter song name",
+    "submitSuccess": "Song successfully sent." 
+  },
+  "guestbook": {
+    "title": "Leave a message for the happy couple",
+    "name": "Enter your name",
+    "message": "Your message goes here...",
+    "submitSuccess": "Message successfully sent."
+  },
+  "photos": {
+    "title": "Send you photo with the couple",
+    "dzMessage": "Drag and drop your photo (or click).",
+    "dzRemove": "Remove",
+    "dzMaxFile": "10 photos maximum reached.",
+    "dzBigFile": "File is too big. Maximum 5mb.",
+    "dzInvalidFile": "Invalid file format.",
+    "submitSuccess": "Your photo will be posted soon."
+  }
+}

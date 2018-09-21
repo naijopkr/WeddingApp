@@ -1,0 +1,66 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#cover {
+    max-width: 300px;
+}
+
+div.row.no-margin {
+    margin-bottom: 0px
+}
+
+.header-item {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-item:hover {
+    color: rgb(224, 207, 46) !important;
+    background: transparent;
+}
+
+.session-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-main, .btn.bg-main:focus {
+    background: #0f015c;
+}
+
+.btn.bg-main:hover {
+    background: #2000d6;
+}
+
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-center ul li a {
+    display: inline-block;
+}
+
+.img-album {
+    clip: rect(0px,100px,200px,0px)
+}
+
+.dropzone .dz-preview.dz-image-preview {
+    background: transparent !important;
+}
+
+.dropzone {
+    color: black;
+}
+
+.home-title {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 36px !important;
+}
+
+.msg-sign {
+    font-family: 'Alex Brush', cursive;
+    color: #e4af2e;
+    font-size: 28px
+}
